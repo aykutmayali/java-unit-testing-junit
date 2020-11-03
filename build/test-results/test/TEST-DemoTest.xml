@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-11-03T06:16:04" hostname="DESKTOP-7CB6303" time="0.014">
+  <properties/>
+  <testcase name="test_main_program_1" classname="DemoTest" time="0.012"/>
+  <testcase name="test_is_Not_triangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_Not_triangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_Not_triangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_Not_triangle_4" classname="DemoTest" time="0.001"/>
+  <testcase name="test_is_Not_triangle_5" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_Not_triangle_6" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="test_is_triangle_4" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
